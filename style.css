@@ -3,7 +3,7 @@ body {
   box-sizing: border-box;
   font-size: 18px;
   font-family: Open Sans, Arial, Helvetica, sans-serif;
-  background-color: hsl(193, 100%, 96%);
+/*  background-color: hsl(193, 100%, 96%); */
   overflow-x: hidden;
 }
 
@@ -105,9 +105,9 @@ a:visited {
   color: white;
   text-shadow: 4px 4px 4px #000000;
   font-size: 25px;
-  padding: 8px 12px;
+  padding: 12px 12px;
   position: absolute;
-  bottom: 350px;
+  bottom: 300px;
   width: 100%;
   text-align: center;
 }
@@ -541,8 +541,8 @@ h2 {
 
   .text {
     /* position: unset; */
-    font-size: 16px;
-    bottom: 250px;
+    font-size: 12px;
+    bottom: 110px;
     padding: 0;
   }
 
